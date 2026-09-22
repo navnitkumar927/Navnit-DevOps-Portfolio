@@ -33,7 +33,7 @@ This portfolio represents my hands-on learning journey and the projects I build 
 
 ## 🌐 Live Portfolio
 
-### 👉 [Visit My Portfolio](https://navnitkumar927.github.io/)
+### 👉 [Visit My Portfolio](https://navnit-devops-portfolio.onrender.com)
 
 The portfolio brings together:
 
